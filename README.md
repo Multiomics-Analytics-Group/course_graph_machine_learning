@@ -1,2 +1,4 @@
-# course_graph_machine_learning
-This is part of an AI course
+# Course 27666 AI-guided Protein Science
+
+# Graph Machine Learning
+
