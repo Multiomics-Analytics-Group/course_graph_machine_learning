@@ -13,10 +13,17 @@
 
 ## Relevant links
 [IvLabs](https://ivlabs.github.io/resources/graph-representation-learning/)
+
 [Geometric Deep Learning](https://geometricdeeplearning.com/lectures/)
+
 [GNNs](https://github.com/SeongokRyu/Graph-neural-networks)
+
 [Stanford cs 224w](https://medium.com/stanford-cs224w)
+
 [Link prediction on Heterogeneous graphs](https://medium.com/@pytorch_geometric/link-prediction-on-heterogeneous-graphs-with-pyg-6d5c29677c70)
+
 [MLNTeam-Unical](https://mlnteam-unical.github.io/resources/)
+
 [Computational Network Biology](https://compnetbiocourse.discovery.wisc.edu/)
+
 [Combining Embeddings](https://medium.com/mantisnlp/how-to-combine-several-embeddings-models-8e7bc9a00330)
